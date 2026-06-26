@@ -14,8 +14,6 @@ I'm using this profile to track my journey as I learn to connect code, math, and
 
 ### Fun Facts:
 
-* I don't like reading fictional books.
- 
+* I don't like reading fictional books. 
 * Hobbies: reading, video games, and building things.
-  
 * Focus: Learning Python while surviving my A-Levels.
